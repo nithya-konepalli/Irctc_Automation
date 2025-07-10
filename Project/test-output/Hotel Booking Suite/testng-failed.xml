@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Hotel Booking Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Hotel Booking Test(failed)">
+    <classes>
+      <class name="com.irctc_test.HotelBookingTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="testFilter"/>
+        </methods>
+      </class> <!-- com.irctc_test.HotelBookingTest -->
+    </classes>
+  </test> <!-- Hotel Booking Test(failed) -->
+</suite> <!-- Failed suite [Hotel Booking Suite] -->

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
+<!--<?xml version="1.0" encoding="UTF-8"?>-->
+<suite name="Hotel Booking Suite">
+    <test name="Hotel Booking Test">
+        <classes>
+            <class name="com.irctc_test.HotelBookingTest"/>
+        </classes>
+    </test>
+</suite>

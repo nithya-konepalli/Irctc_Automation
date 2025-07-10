@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-20T17:22:20 IST" name="Hotel Booking Suite" finished-at="2025-06-20T17:23:12 IST" duration-ms="52025">
+    <groups>
+    </groups>
+    <test started-at="2025-06-20T17:22:20 IST" name="Hotel Booking Test" finished-at="2025-06-20T17:23:12 IST" duration-ms="52025">
+      <class name="com.irctc_test.HotelBookingTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.irctc_test.HotelBookingTest@4d1c00d0]" started-at="2025-06-20T17:22:20 IST" name="setUp" finished-at="2025-06-20T17:22:25 IST" duration-ms="4766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testFilter()[pri:1, instance:com.irctc_test.HotelBookingTest@4d1c00d0]" started-at="2025-06-20T17:22:25 IST" name="testFilter" finished-at="2025-06-20T17:23:09 IST" duration-ms="43935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFilter -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.irctc_test.HotelBookingTest@4d1c00d0]" started-at="2025-06-20T17:23:09 IST" name="tearDown" finished-at="2025-06-20T17:23:12 IST" duration-ms="3286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.irctc_test.HotelBookingTest -->
+    </test> <!-- Hotel Booking Test -->
+  </suite> <!-- Hotel Booking Suite -->
+</testng-results>
