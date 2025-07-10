@@ -1,2 +1,2 @@
 # Irctc_Automation
-IRCTC Website Flight Booking Automation 
+IRCTC Website Hotel Booking Automation 
